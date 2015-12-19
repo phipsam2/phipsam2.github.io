@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://phipsam2.github.io
+title: Load Balancer 
+tagline: A log of everyday life
+description: Load Balancer is the key to defence from Cyber Criminals
+paginate: 5
